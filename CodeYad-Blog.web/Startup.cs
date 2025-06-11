@@ -17,7 +17,7 @@ namespace CodeYad_Blog.Web
 {
     public class Startup
     {
-        //....
+        //....000
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

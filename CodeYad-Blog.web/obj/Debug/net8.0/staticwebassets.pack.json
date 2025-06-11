@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CodeYad-Blog.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CodeYad-Blog.web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\authLayout\\css\\main.css",
+      "PackagePath": "staticwebassets\\authLayout\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\colors\\cyan.css",
+      "PackagePath": "staticwebassets\\css\\colors\\cyan.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\colors\\pink.css",
+      "PackagePath": "staticwebassets\\css\\colors\\pink.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\colors\\violet.css",
+      "PackagePath": "staticwebassets\\css\\colors\\violet.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\css\\font-icons.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\owl-carousel\\Thumbs.db",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\ui-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.eot"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\ui-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.svg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\ui-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\ui-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\fonts\\ui-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\content\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\about\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\about\\about_bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\cinema-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\cinema-banner.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\mag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\mag-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_300.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_300_600.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300_600.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_336.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_336.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_728.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_728.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_970.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\placeholder_970_1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970_1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\single\\Huawei-Mate-X-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-4.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-5.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-7.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-7.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-8.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-8.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\content\\thumb\\post-9.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-9.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\dropdown.png",
+      "PackagePath": "staticwebassets\\img\\dropdown.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\empty.png",
+      "PackagePath": "staticwebassets\\img\\empty.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\img\\map_pin.png",
+      "PackagePath": "staticwebassets\\img\\map_pin.png"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\flickity.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\flickity.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\jquery.newsTicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.newsTicker.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\jquery.sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky-kit.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\lazysizes.min.js",
+      "PackagePath": "staticwebassets\\js\\lazysizes.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\owl-carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Projects\\CodeYad-Blog\\CodeYad-Blog\\CodeYad-Blog.web\\wwwroot\\js\\twitterFetcher_min.js",
+      "PackagePath": "staticwebassets\\js\\twitterFetcher_min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CodeYad-Blog.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CodeYad-Blog.web.props",
+      "PackagePath": "build\\CodeYad-Blog.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CodeYad-Blog.web.props",
+      "PackagePath": "buildMultiTargeting\\CodeYad-Blog.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CodeYad-Blog.web.props",
+      "PackagePath": "buildTransitive\\CodeYad-Blog.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
